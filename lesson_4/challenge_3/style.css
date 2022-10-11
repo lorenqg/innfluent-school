@@ -1,0 +1,28 @@
+*{
+    background-color: black;
+}
+
+p{
+    color: yellow;
+}
+
+#span1{
+    color: indigo;
+}
+
+#span2{
+    font-weight: bolder;
+}
+
+#span3{
+    color: white;
+}
+
+#span4{
+    color: red;
+}
+
+#unico{
+    background-color: white;
+    color: black;
+}
