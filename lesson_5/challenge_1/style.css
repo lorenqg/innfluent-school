@@ -1,0 +1,48 @@
+.fondo-negro {
+    background-color: black;
+}
+  
+.blanco {
+    color: white;
+}
+  
+.azul {
+    color: blue;
+}
+  
+.rojo {
+    color: red;
+}
+  
+.verde {
+    color: green;
+}
+  
+.tomate {
+    color: tomato;
+}
+  
+.amarillo {
+    color: yellow;
+}
+  
+.texto-xs {
+    font-size: 8px;
+}
+  
+.texto-sm {
+    font-size: 12px;
+}
+  
+.texto-md {
+    font-size: 14px;
+}
+  
+.texto-lg {
+    font-size: 18px;
+}
+  
+.texto-grueso {
+    font-weight: bold;
+}
+  
